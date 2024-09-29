@@ -21,6 +21,10 @@
       <td>Edge</td>
       <td>true</td>
     </tr>
+      <tr>
+      <td>microsoft</td>
+      <td>true</td>
+    </tr>
   </table>
 <h2>information install</h2>
 <p>git clone https://github.com/aditiyasubakti/PdfBackdoors.git</p>
