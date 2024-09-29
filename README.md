@@ -12,7 +12,7 @@
   <p>apt install python3</p>
   <p>python3 -m venv myenv</p>
   <p>source myenv/bin/activate</p>
-  <p>apip install pikepdf/p>
+  <p>apip install pikepdf</p>
   <p>python3 pdf3.py</p>
 <h1>runing</h1>
   <p>source myenv/bin/activate</p>
