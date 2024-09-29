@@ -3,11 +3,17 @@
 <p>Penggunaan alat ini hanya untuk tujuan pendidikan dan pengujian. Harap tidak menyalahgunakannya untuk kegiatan ilegal atau berbahaya.
 </p>
 <hr>
-<h2>information</h2>
+<h2>information install</h2>
 <p>git clone https://github.com/aditiyasubakti/PdfBackdoors.git</p>
 <p>cd PdfBackdoors</p>
-<p>pip install -r requirements.txt</p>
-<p>python3 pdf3.py</p>
+<h1>auto install</h1>
+<p>python install.py</p>
+  <h1>manual install</h1>
+  <p>apt install python3</p>
+  <p>python3 -m venv myenv</p>
+  <p>source myenv/bin/activate</p>
+  <p>apip install pikepdf/p>
+  <p>python3 pdf3.py</p>
 <hr>
 <br>
 <h2>image</h2>
