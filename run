@@ -1,0 +1,7 @@
+untuk run anda gunakan ini terlebih dahulu
+jika 'python3 -m venv myenv' tetap tidak berjalan maka jalakan ini baru source nya
+
+python3 -m venv myenv
+
+source myenv/bin/activate
+python3 pdf3.py
