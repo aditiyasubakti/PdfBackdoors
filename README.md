@@ -3,6 +3,25 @@
 <p>Penggunaan alat ini hanya untuk tujuan pendidikan dan pengujian. Harap tidak menyalahgunakannya untuk kegiatan ilegal atau berbahaya.
 </p>
 <hr>
+<h2>Target yang berjalan</h2>
+  <table>
+    <tr>
+      <th>target</th>
+      <th>status</th>
+    </tr>
+    <tr>
+      <td>firefox</td>
+      <td>true</td>
+    </tr>
+      <tr>
+      <td>Chrome</td>
+      <td>true</td>
+      </tr>
+      <tr>
+      <td>Edge</td>
+      <td>true</td>
+    </tr>
+  </table>
 <h2>information install</h2>
 <p>git clone https://github.com/aditiyasubakti/PdfBackdoors.git</p>
 <p>cd PdfBackdoors</p>
@@ -17,8 +36,6 @@
 <h1>runing</h1>
   <p>source myenv/bin/activate</p>
   <p>python3 pdf3.py</p>
-
-
 
 <hr>
 <br>
