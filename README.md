@@ -14,6 +14,12 @@
   <p>source myenv/bin/activate</p>
   <p>apip install pikepdf/p>
   <p>python3 pdf3.py</p>
+<h1>runing</h1>
+  <p>source myenv/bin/activate</p>
+  <p>python3 pdf3.py</p>
+
+
+
 <hr>
 <br>
 <h2>image</h2>
