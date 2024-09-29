@@ -22,10 +22,16 @@
       <td>true</td>
     </tr>
       <tr>
-      <td>microsoft</td>
+      <td>microsoft word</td>
+      <td>true</td>
+    </tr>
+      <tr>
+      <td>Adobe reader</td>
       <td>true</td>
     </tr>
   </table>
+
+  
 <h2>information install</h2>
 <p>git clone https://github.com/aditiyasubakti/PdfBackdoors.git</p>
 <p>cd PdfBackdoors</p>
