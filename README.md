@@ -3,6 +3,12 @@
 <p>Penggunaan alat ini hanya untuk tujuan pendidikan dan pengujian. Harap tidak menyalahgunakannya untuk kegiatan ilegal atau berbahaya.
 </p>
 <hr>
+<h2>information</h2>
+<p>git clone https://github.com/aditiyasubakti/PdfBackdoors.git</p>
+<p>cd PdfBackdoors</p>
+<p>pip install -r requirements.txt</p>
+<p>python3 pdf3.py</p>
+<hr>
 <br>
 <h2>image</h2>
 <br>
