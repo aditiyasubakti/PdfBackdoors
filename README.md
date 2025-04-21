@@ -1,6 +1,6 @@
 # PdfBackdoors
 <h2>Catatan:</h2>
-<p>Penggunaan alat ini hanya untuk tujuan pendidikan dan pengujian. Harap tidak menyalahgunakannya untuk kegiatan ilegal atau berbahaya.
+<p>Use of this tool is for educational and testing purposes only. Please do not misuse it for illegal or malicious activities.
 </p>
 <hr>
 <h2>Target yang berjalan</h2>
