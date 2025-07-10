@@ -3,7 +3,7 @@
 <p>Use of this tool is for educational and testing purposes only. Please do not misuse it for illegal or malicious activities.
 </p>
 <hr>
-<h2>Target yang berjalan</h2>
+<h2>Running target</h2>
   <table>
     <tr>
       <th>target</th>
