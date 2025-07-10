@@ -20,7 +20,7 @@ def inject_js_to_pdf(input_pdf, output_pdf, payload=None):
 
 print("|=======================================================|")
 print("|\t\tInjection pdf\t\t\t\t|")
-print("|Ig:aditiya.subakti\t|in:aditiya.subakti\t\t|")
+print("|Ig:aditiya.sbk\t|in:aditiya.subakti\t\t|")
 print("|=======================================================|\n")
 
 input_pdf_name = input("masukan nama file pdf anda (exampel file.pdf): ")
